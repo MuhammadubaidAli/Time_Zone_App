@@ -31,7 +31,7 @@ A simple yet powerful Streamlit-based Time Zone Converter that allows users to:
 
     Clone the repository:
 
-git clone https://github.com/your-username/time-zone-app.git
+git clone https://github.com/MuhammadubaidAli/time-zone-app.git
 cd time-zone-app
 
 Install dependencies:
